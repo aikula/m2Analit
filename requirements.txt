@@ -1,11 +1,12 @@
-pandas==1.5.3
+pandas
 numpy==1.26.4
-matplotlib==3.8.0
-scikit-learn==1.5.1
-prophet==1.1.6
-openpyxl==3.0.10
-statsmodels==0.14.0
-pmdarima==2.0.4
-seaborn==0.12.2
-scipy==1.10.1
-plotly==5.9.0
+matplotlib
+scikit-learn
+prophet
+openpyxl
+statsmodels
+pmdarima
+seaborn
+scipy
+plotly
+>>>>>>> 57d4ae8 (new version)
