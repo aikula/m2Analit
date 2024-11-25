@@ -9,4 +9,3 @@ pmdarima
 seaborn
 scipy
 plotly
->>>>>>> 57d4ae8 (new version)
